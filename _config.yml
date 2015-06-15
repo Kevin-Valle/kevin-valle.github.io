@@ -1,0 +1,12 @@
+# Site settings
+title: CS378 Summer 2015&#58; Kevin Valle
+email: kevinosvaldovalle@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog for CS378&#58; Generic Programming and the STL
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kevin-valle.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  Kevin-Valle
+
+# Build settings
+markdown: kramdown
