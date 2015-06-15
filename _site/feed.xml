@@ -2,13 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS378 Summer 2015&amp;#58; Kevin Valle</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Blog for CS378&amp;#58; Generic Programming and the STL
 </description>
     <link>http://kevin-valle.github.io/</link>
     <atom:link href="http://kevin-valle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jun 2015 22:29:19 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2015 22:29:19 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2015 23:55:53 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2015 23:55:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 1</title>
+        <description>&lt;p&gt;This is the first installment of my blog for CS378: Generic Programming and the STL. This class is the third class that I have taken with professor Downing but the first class in which I have attempted to keep up with a blog. I guess the third time is the charm!&lt;/p&gt;
+
+&lt;p&gt;Every day of class begins with  a quiz over assigned readings and the previous lecture. This semester, Downing has moved from paper and pencil quizzes to conducting the quizzes online using Tophat.     Quizzes on Tophat feel no different than the previous paper and pencil quizzes. There are however more multiple     choice questions which are always a pleasure to see. After the quiz, Downing gives his lecture by calling on individual students to read/explain lines of code from the projector. This is by far the most interactive class I have taken. There’s nothing like the “fear” of your name being called next to keep you awake in class. I put fear in     quotations because even if you don’t know the answer to a question that Downing asks, he will work with you to arrive at an answer as best as he can.&lt;/p&gt;
+
+&lt;p&gt;The first full week of class centered on introducing our first project, Collatz, based on the Collatz conjecture. Having already completed this project in my Object Oriented Programming and Software engineering classes, completing this project was trivial. What makes this time different is the introduction of continuous integration with Travis CI.&lt;/p&gt;
+
+&lt;p&gt;Tip of the week: When working on a project, worry less about which editor and or additional tools you are going to use and worry more about actually completing the project. You can always come back afterwards if time permits. Example: I wanted to write my code for this first project in an IDE instead of vim because I thought it would be easier and improve my productivity. After many frustrations trying to set up the IDE for my project, I was still at square one. I switched to what I knew and was able to finish the project quickly. I am not saying to avoid learning to use new IDE’s and tools but to consider your priorites when working on a project. If you spend all your time setting up the development environment and end up with no end result then some adjustments need to be made..&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 17:49:00 -0500</pubDate>
+        <link>http://kevin-valle.github.io/2015/06/14/week1.html</link>
+        <guid isPermaLink="true">http://kevin-valle.github.io/2015/06/14/week1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
