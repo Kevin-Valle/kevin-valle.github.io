@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Week 2"
+date: 2015-06-21 17:30:00
+---
+
+This week's lecture involved becoming familiar with some of C++'s unique features such as pointers, references, containers, iterators, and templates. It has been a while since I have used pointers and references so I have to put in a little extra effort when working on the exercises in class. I am not familiar with C++'s containers and iterators so this week's lecture felt a little over my head but some practice would help alleviate that feeling.
+
+Professor Downing then introduced and explained the second project, which is similar to the logic of a makefile. At first glance, this project seems simple but the more you look at it, the harder it looks considering the time given to have it completed. That combined with no provided files this time around make this project harder than the last but make it more of a learning experience. Having never written a travis.yml or makefile, I am glad I get to practice with a similar project to reference.
+
+Tip of the week: One of my biggest pet peeves while working on a project is switching contexts whenever working with issues on Github. Since I am doing most of my development and testing on the command line, I decided to look for a tool that would allow me to create, edit, and close issues on the fly also via the command line. That brings me to [ghi](https://github.com/stephencelis/ghi). Easy configuration and simple commands mean no more switching windows whenever I want to update issues. The only downside that I would mention is that the online documentation provided by ghi's website and repo is not very clear especially when researching how to run a specific command. However, the help command provides great insight into the many commands available. I look forward to becoming more familiar with this tool and would recommend it to anyone who prefers working with the command line.

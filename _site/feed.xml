@@ -6,9 +6,24 @@
 </description>
     <link>http://kevin-valle.github.io/</link>
     <atom:link href="http://kevin-valle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Jun 2015 00:01:01 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2015 00:01:01 -0500</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2015 18:04:52 -0500</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2015 18:04:52 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 2</title>
+        <description>&lt;p&gt;This week’s lecture involved becoming familiar with some of C++’s unique features such as pointers, references, containers, iterators, and templates. It has been a while since I have used pointers and references so I have to put in a little extra effort when working on the exercises in class. I am not familiar with C++’s containers and iterators so this week’s lecture felt a little over my head but some practice would help alleviate that feeling.&lt;/p&gt;
+
+&lt;p&gt;Professor Downing then introduced and explained the second project, which is similar to the logic of a makefile. At first glance, this project seems simple but the more you look at it, the harder it looks considering the time given to have it completed. That combined with no provided files this time around make this project harder than the last but make it more of a learning experience. Having never written a travis.yml or makefile, I am glad I get to practice with a similar project to reference.&lt;/p&gt;
+
+&lt;p&gt;Tip of the week: One of my biggest pet peeves while working on a project is switching contexts whenever working with issues on Github. Since I am doing most of my development and testing on the command line, I decided to look for a tool that would allow me to create, edit, and close issues on the fly also via the command line. That brings me to &lt;a href=&quot;https://github.com/stephencelis/ghi&quot;&gt;ghi&lt;/a&gt;. Easy configuration and simple commands mean no more switching windows whenever I want to update issues. The only downside that I would mention is that the online documentation provided by ghi’s website and repo is not very clear especially when researching how to run a specific command. However, the help command provides great insight into the many commands available. I look forward to becoming more familiar with this tool and would recommend it to anyone who prefers working with the command line.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jun 2015 12:30:00 -0500</pubDate>
+        <link>http://kevin-valle.github.io/2015/06/21/week2.html</link>
+        <guid isPermaLink="true">http://kevin-valle.github.io/2015/06/21/week2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 1</title>
