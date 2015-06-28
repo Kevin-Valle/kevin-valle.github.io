@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Week 3"
+date: 2015-06-28 15:45:00
+---
+
+Project 2 was due last week. I was expecting to take at least one late day but I somehow managed to complete it an hour before the deadline. Looking back, planning the implementation and writing tests proved to be the most time consuming elements of the project. This was the first time that I wrote the tests before writing any code and it was HARD. Fortunately, it resulted in less bugs and less frustration than I would have thought. Test Driven Development is definitely something that I am willing to try again and I am sure that it will get easier and more fluid with practice.
+
+The first test is coming up this week. Even though I have not had trouble following along in lecture, I still need to study. Writing code on paper is much harder than typing on a computer and the time constraint also makes things harder. My priority is going to be iterators and writing the algorithms listed in the study guide.
+
+Tip of the week: Rather than just copy/pasting a solution from the Internet, try to write out the solution line by line. I don't quite remember where but I read that to become a better developer, you have to understand every line of code you write before it is run. I have taken those words to heart and learned some pretty neat tricks and tools. Obviously there is a time and a place, especially when there is not deadline, but it proves very useful when kept in mind.
+
