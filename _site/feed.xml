@@ -6,9 +6,24 @@
 </description>
     <link>http://kevin-valle.github.io/</link>
     <atom:link href="http://kevin-valle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jun 2015 17:58:51 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2015 17:58:51 -0500</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2015 02:43:13 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2015 02:43:13 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 4</title>
+        <description>&lt;p&gt;This week flew by with test #1 and a day off from class. Going over the algorithms listed in the review for test #1 proved to be very useful. Leaving the test room, I felt very confident about how I did and my grade justified that confidence.&lt;/p&gt;
+
+&lt;p&gt;Project 3 is due this coming week. It involves creating an Integer class similar to Java’s BigInteger. This project’s purpose is to reinforce the topics recently covered in class: classes, operators, and iterators. I have chosen to work with a partner for this project seeing as I finally had a clear enough schedule. A partner proved useful when understanding the project because we had someone next to use to help clarify any questions or confusion. Additionally, it always helps to have an extra set of eyes on the monitor looking for any accidental bugs. I happen to be partnering with my brother for this project. I personally know that he has been programming for longer than I have and has more experience which can cause intimidation, but gladly that wasn’t the case. We took turns typing as the other helped develop the logic. We didn’t try to force a solution/IDE/style onto one another which created a feeling of equality. Although we still have quite a bit more work to put into this project, I am confident that it will be smooth sailing from here on out.&lt;/p&gt;
+
+&lt;p&gt;Tip of the week: Program alongside another person at least once and treat it as a learning experience. They are bound to know something that you yourself do not know or understand clearly. Treating each other with respect as developers will make pair programming an enjoyable and productive experience.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jul 2015 20:30:00 -0500</pubDate>
+        <link>http://kevin-valle.github.io/2015/07/04/week4.html</link>
+        <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/04/week4.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 3</title>
