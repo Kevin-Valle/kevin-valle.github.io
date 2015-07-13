@@ -6,9 +6,24 @@
 </description>
     <link>http://kevin-valle.github.io/</link>
     <atom:link href="http://kevin-valle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2015 02:43:13 -0500</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2015 02:43:13 -0500</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2015 22:56:23 -0500</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2015 22:56:23 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 5</title>
+        <description>&lt;p&gt;This week is another short week yet it feels like lecture covered a whole lot of material.  We went over the inner workings of vector in order to fully understand project 4. This meant covering allocators, destructors, constructors, and copy constructors in depth. The material that we go over in lecture is really interesting and makes me appreciate the C++ language. I would highly recommend this class to all my friends.&lt;/p&gt;
+
+&lt;p&gt;Project 4 involves writing our own implementation of deque. The code for vector is really helpful in writing similar methods for deque. With first summer session ending this weekend, I am lucky to be working on this project with a partner who has the same availability. I have heard that this project is more difficult that the previous one so I can expect to spend large amounts of hours working on this.&lt;/p&gt;
+
+&lt;p&gt;Tip of the week: Continue to review the lecture material as the class goes on. I have found that after a few weeks, the intensity at which I keep up with the material declines as the class goes on especially with other classes and an internship. I struggled with quizzes this week. I felt like I knew the general idea of what was covered last lecture but the quizzes necessitated specific pieces of information. A quick review of notes before and after class can refresh and reinforce the material covered in lecture.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2015 17:25:00 -0500</pubDate>
+        <link>http://kevin-valle.github.io/2015/07/12/week5.html</link>
+        <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/12/week5.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 4</title>
