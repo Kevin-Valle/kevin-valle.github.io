@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Week 6"
+date: 2015-07-19 15:25:00
+---
+
+Project 4 was due this week. It was by far the hardest project of the class thus far.  Unfortunately, I was in the midst of finding an apartment and my availability suffered as a result. I worked with a partner again for this project and that made writing our implementation easier on the both of us as we would test each other’s logic and reasoning. We were in the lab almost every day trying to make progress.  The main difficulty of this project was that numerous methods depended on other methods so we could not be certain whether tests failed because of the current function or some other function. After a rough week, we finished two days after the deadline, losing two fifths of the possible points.
+
+The deadline for the final project is quickly approaching. I need to put in extra effort to not lose any more grade points because this could very well be the first computer science class in which I receive an ‘A’. I can foresee many hours working on this project and studying for the upcoming test.  
+
+Tip of the week: I cannot stress the importance of having a local environment that can run tests and code identically to production.  For reasons that I am still trying to figure out, my mac will not build my project locally. This prevents me from running tests. This has also prevented me from working on the bus or away from my desktop at home. Having followed many tutorials and instructions online, the problem still remains and thus I have decided to use a virtual image of an environment that I am certain works instead. While not ideal, I can test changes while away from home and not be dependent on an Internet connection. 
+
