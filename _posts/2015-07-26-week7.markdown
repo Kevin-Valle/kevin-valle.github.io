@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Week 7"
+date: 2015-07-26 23:55:00
+---
+
+This week is the final week for Generic Programming and I am sad to have seen the class fly by rather quickly. I have learned so much and am glad to have taken this class. Projects three and four were HARD but were great learning experiences. My favorite part was getting the opportunity to work with continuous integration using Travis CI because it made working on the projects feel more professional.
+
+The previous week included a presentation from Mutual Mobile. It was a very relaxed presentation that focused on open source and was followed by a Q&A. I had seen the presentation last semester in another one of Downing’s classes but a different speaker gave the information a twist. We then had a study session with the TAs to prepare for the upcoming exam. Project 5 was also due and it was a cakewalk compared to the two previous projects.
+
+The second test is coming up on Monday. If memory serves right, Downing’s second tests are way harder than the first test. This means that I had to have started studying three weeks ago… This test will cover iterator traits, iterator adapters, and various data structures. A few hours implementing the given algorithms and concepts and creating a helpful resource sheet should prepare me enough for this test.
+
+Tip of the class: Learn to manage your time when working on projects. This is a summer class therefore the ratio of material to time is going to be greater compared to taking a class over a long semester. Things will come up and you may have other classes. Thus starting early is essential to surviving this class.
+

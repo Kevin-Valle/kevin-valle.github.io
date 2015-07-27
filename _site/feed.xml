@@ -6,9 +6,27 @@
 </description>
     <link>http://kevin-valle.github.io/</link>
     <atom:link href="http://kevin-valle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jul 2015 14:33:58 -0700</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2015 14:33:58 -0700</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2015 23:55:22 -0500</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2015 23:55:22 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 7</title>
+        <description>&lt;p&gt;This week is the final week for Generic Programming and I am sad to have seen the class fly by rather quickly. I have learned so much and am glad to have taken this class. Projects three and four were HARD but were great learning experiences. My favorite part was getting the opportunity to work with continuous integration using Travis CI because it made working on the projects feel more professional.&lt;/p&gt;
+
+&lt;p&gt;The previous week included a presentation from Mutual Mobile. It was a very relaxed presentation that focused on open source and was followed by a Q&amp;amp;A. I had seen the presentation last semester in another one of Downing’s classes but a different speaker gave the information a twist. We then had a study session with the TAs to prepare for the upcoming exam. Project 5 was also due and it was a cakewalk compared to the two previous projects.&lt;/p&gt;
+
+&lt;p&gt;The second test is coming up on Monday. If memory serves right, Downing’s second tests are way harder than the first test. This means that I had to have started studying three weeks ago… This test will cover iterator traits, iterator adapters, and various data structures. A few hours implementing the given algorithms and concepts and creating a helpful resource sheet should prepare me enough for this test.&lt;/p&gt;
+
+&lt;p&gt;Tip of the class: Learn to manage your time when working on projects. This is a summer class therefore the ratio of material to time is going to be greater compared to taking a class over a long semester. Things will come up and you may have other classes. Thus starting early is essential to surviving this class.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 26 Jul 2015 18:55:00 -0500</pubDate>
+        <link>http://kevin-valle.github.io/2015/07/26/week7.html</link>
+        <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/26/week7.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 6</title>
@@ -19,7 +37,7 @@
 &lt;p&gt;Tip of the week: I cannot stress the importance of having a local environment that can run tests and code identically to production.  For reasons that I am still trying to figure out, my mac will not build my project locally. This prevents me from running tests. This has also prevented me from working on the bus or away from my desktop at home. Having followed many tutorials and instructions online, the problem still remains and thus I have decided to use a virtual image of an environment that I am certain works instead. While not ideal, I can test changes while away from home and not be dependent on an Internet connection.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 19 Jul 2015 08:25:00 -0700</pubDate>
+        <pubDate>Sun, 19 Jul 2015 10:25:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/07/19/week6.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/19/week6.html</guid>
         
@@ -35,7 +53,7 @@
 &lt;p&gt;Tip of the week: Continue to review the lecture material as the class goes on. I have found that after a few weeks, the intensity at which I keep up with the material declines as the class goes on especially with other classes and an internship. I struggled with quizzes this week. I felt like I knew the general idea of what was covered last lecture but the quizzes necessitated specific pieces of information. A quick review of notes before and after class can refresh and reinforce the material covered in lecture.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 12 Jul 2015 15:25:00 -0700</pubDate>
+        <pubDate>Sun, 12 Jul 2015 17:25:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/07/12/week5.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/12/week5.html</guid>
         
@@ -50,7 +68,7 @@
 
 &lt;p&gt;Tip of the week: Program alongside another person at least once and treat it as a learning experience. They are bound to know something that you yourself do not know or understand clearly. Treating each other with respect as developers will make pair programming an enjoyable and productive experience.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Jul 2015 18:30:00 -0700</pubDate>
+        <pubDate>Sat, 04 Jul 2015 20:30:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/07/04/week4.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/07/04/week4.html</guid>
         
@@ -66,7 +84,7 @@
 &lt;p&gt;Tip of the week: Rather than just copy/pasting a solution from the Internet, try to write out the solution line by line. I don’t quite remember where but I read that to become a better developer, you have to understand every line of code you write before it is run. I have taken those words to heart and learned some pretty neat tricks and tools. Obviously there is a time and a place, especially when there is not deadline, but it proves very useful when kept in mind.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 28 Jun 2015 08:45:00 -0700</pubDate>
+        <pubDate>Sun, 28 Jun 2015 10:45:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/06/28/week3.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/06/28/week3.html</guid>
         
@@ -81,7 +99,7 @@
 
 &lt;p&gt;Tip of the week: One of my biggest pet peeves while working on a project is switching contexts whenever working with issues on Github. Since I am doing most of my development and testing on the command line, I decided to look for a tool that would allow me to create, edit, and close issues on the fly also via the command line. That brings me to &lt;a href=&quot;https://github.com/stephencelis/ghi&quot;&gt;ghi&lt;/a&gt;. Easy configuration and simple commands mean no more switching windows whenever I want to update issues. The only downside that I would mention is that the online documentation provided by ghi’s website and repo is not very clear especially when researching how to run a specific command. However, the help command provides great insight into the many commands available. I look forward to becoming more familiar with this tool and would recommend it to anyone who prefers working with the command line.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 Jun 2015 10:30:00 -0700</pubDate>
+        <pubDate>Sun, 21 Jun 2015 12:30:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/06/21/week2.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/06/21/week2.html</guid>
         
@@ -98,7 +116,7 @@
 
 &lt;p&gt;Tip of the week: When working on a project, worry less about which editor and or additional tools you are going to use and worry more about actually completing the project. You can always come back afterwards if time permits. Example: I wanted to write my code for this first project in an IDE instead of vim because I thought it would be easier and improve my productivity. After many frustrations trying to set up the IDE for my project, I was still at square one. I switched to what I knew and was able to finish the project quickly. I am not saying to avoid learning to use new IDE’s and tools but to consider your priorites when working on a project. If you spend all your time setting up the development environment and end up with no end result then some adjustments need to be made..&lt;/p&gt;
 </description>
-        <pubDate>Sun, 14 Jun 2015 15:49:00 -0700</pubDate>
+        <pubDate>Sun, 14 Jun 2015 17:49:00 -0500</pubDate>
         <link>http://kevin-valle.github.io/2015/06/14/week1.html</link>
         <guid isPermaLink="true">http://kevin-valle.github.io/2015/06/14/week1.html</guid>
         
